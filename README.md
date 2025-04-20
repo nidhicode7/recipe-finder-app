@@ -35,8 +35,7 @@ It’s fast, responsive, and built with modern web technologies. Ideal for home 
 To run this project locally, follow these steps:
 
 
-1.Clone repository
-```bash
+**1.Clone repository**
 git clone https://github.com/nidhicode7/recipe-finder-app.git
 cd recipe-finder-app
 
@@ -44,22 +43,22 @@ cd recipe-finder-app
 ### 2. Install dependencies**
 npm install
 
-3. Add your API key
+**3. Add your API key**
 This project uses the Spoonacular API.
 Create a .env file in the root directory and add:
 VITE_API_KEY=your_spoonacular_api_key_here
 Replace your_spoonacular_api_key_here with your real API key.
 
-4. Run the app
+**4. Run the app**
 npm run dev
 Open http://localhost:5173 in your browser.
 
-🚀 Deployment
+**5. Deployment**
 
 This app is continuously deployed using Vercel. Any push to the main branch automatically triggers a new deployment.
 
-🤝 Author
 
-Made with ❤️ by Nidhishaa
+
+Made with love by Nidhishaa
 
 

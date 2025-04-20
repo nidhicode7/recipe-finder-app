@@ -40,7 +40,7 @@ git clone https://github.com/nidhicode7/recipe-finder-app.git
 cd recipe-finder-app
 
 
-### 2. Install dependencies**
+### 2. Install dependencies
 npm install
 
 **3. Add your API key**
